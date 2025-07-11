@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="left" style="color:#8e44ad;">🛠️ Languages and Tools:</h3>
+<h3 align="left" style="color:#8e44ad;">🛠️ Tech Stack:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
