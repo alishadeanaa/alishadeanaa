@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://imgur.com/CSHIBMq" width="100%" alt="Banner Alisha Deana Tabina"/>
+  <img src="https://i.imgur.com/CSHIBMq.png" alt="Banner Alisha" width="100%" />
+
 </p>
 
 <h1 align="center" style="color:#9b59b6;">Hi 👋, I'm <span style="color:#8e44ad;">Alisha Deana Tabina</span></h1>
